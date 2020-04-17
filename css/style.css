@@ -1,0 +1,14 @@
+div{
+    width: 300px;
+    margin: 0 auto;
+    background: lemonchiffon;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    color:blue;
+}
+p{
+    color: black;
+    background: yellow;
+}
