@@ -2,7 +2,7 @@
 How to make your browser sync while making changes in your files on the root folder or sub-folder
 
 ## STEPS:
-* Create a folder on your desktop ``` $ mkdir <folderName> ```
+* Create a folder on your desktop ```npm $ mkdir <folderName> ```
 * Create your index.html file ``` $ touch <fileName> ```
 * Access the folder through the command line (Terminal) ``` $ cd <folderName> ```
 * Use ``` $ npm init ``` to create package.json file 
