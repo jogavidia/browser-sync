@@ -2,8 +2,8 @@
 How to make your browser sync while making changes in your files on the root folder or sub-folder
 
 ## STEPS:
-• Create a folder on your desktop ``` $ mkdir <folderName> ```
-• Access the folder through the command line (Terminal) ``` $ cd <folderName> ```
+• bullet Create a folder on your desktop ``` $ mkdir <folderName> ```
+• bullet Access the folder through the command line (Terminal) ``` $ cd <folderName> ```
 • Use ``` $ npm init ``` to create package.json file 
 • Enter the following command ``` $ npm i browser-sync ``` to install browser-sync package
 7. Enter the following command to verify if browser-sync was installed: browser-sync --help
