@@ -3,8 +3,8 @@ How to make your browser sync while making changes in your files on the root fol
 
 ## STEPS:
 1. Create a folder on your desktop ``` $ mkdir <folderName> ```
-2. Create your index.html file ``` $ touch <fileName> ```
-3. Access the folder through the command line (Terminal) ``` $ cd <folderName> ```
+2. Access the folder through the command line (Terminal) ``` $ cd <folderName> ```
+3. Create your index.html file ``` $ touch <fileName> ```
 4. Use ``` $ npm init ``` to create package.json file 
 5. Enter the following command ``` $ npm i browser-sync ``` to install browser-sync package
 6. Enter the following command to verify if browser-sync was installed: ``` browser-sync --help ```
