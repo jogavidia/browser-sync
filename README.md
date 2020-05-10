@@ -36,6 +36,10 @@ Once you have your project folder with corresponding files in it, follow these s
 
 ``` $ browser-sync start --server --files "*.*" ```
 
-8. If you have files in subfolders, enter the following command to display changes made in subfolders files:
+8. If you have files in subfolders, enter the following command to display changes made in subfolders files as well:
 
 ``` $ browser-sync -w ```
+
+8. In case, you have your index.html in a sub-folder:
+
+``` browser-sync start --server "build" -w ``` * where "build" is the sub-folder that contain index.html
